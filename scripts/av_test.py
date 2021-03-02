@@ -17,7 +17,6 @@ https://www.alphavantage.co/documentation/#
 """
 
 function = 'OVERVIEW'
-#symbol = 'FLIR'
 apikey = config.api_key
 
 for i in watchlist.ticks:
