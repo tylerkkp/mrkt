@@ -19,6 +19,7 @@ https://www.alphavantage.co/documentation/#
 function = 'OVERVIEW'
 apikey = config.api_key
 
+# NOTE: Breaks when symbol is not valid
 for i in watchlist.ticks:
     symbol = i
     response = requests.get("https://www.alphavantage.co/query" + 
