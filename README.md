@@ -19,3 +19,9 @@ The API being used for this project is [AlphaVantage](https://www.alphavantage.c
 * Support for multiple watchlists
 * Ticker symbol lookup
 
+### Demo
+
+More polished output to be added later
+
+![query_api_demo](https://user-images.githubusercontent.com/30785626/122626144-98431080-d05d-11eb-9146-1ce982450d6c.gif)
+
